@@ -1,5 +1,7 @@
 # Word2Vec-zh-TW
 
-openCC簡中轉繁中
+## Training process
+The training process of this project
 
-ckip-transformer斷詞
+![flow chart](https://github.com/Jay113910/Word2Vec-zh-TW/blob/main/imgs/word2vec-flowchart.png)
+
