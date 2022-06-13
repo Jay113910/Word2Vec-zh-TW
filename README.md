@@ -9,4 +9,4 @@
 python train.py
 ```
 
-You can use your own dataset to train a Word2Vec by modify the ```corpus.py``` file
+You can use your own dataset to train a Word2Vec by modifying the ```corpus.py``` file
